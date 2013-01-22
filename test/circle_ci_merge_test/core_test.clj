@@ -3,7 +3,7 @@
         circle-ci-merge-test.core))
 
 (defn foo []
-  2)
+  1)
 
 (deftest master-test
   (testing "FIXME, I fail."
