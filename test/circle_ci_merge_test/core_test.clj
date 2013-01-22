@@ -8,3 +8,6 @@
 (deftest master-test
   (testing "FIXME, I fail."
     (is (= 0 0))))
+
+(deftest foo-test
+         (is (= 2 (foo))))
