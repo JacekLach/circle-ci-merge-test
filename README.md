@@ -1,5 +1,5 @@
 # circle-ci-merge-test
-BOGUS
+EVEN MOREBOGUS
 
 A Clojure library designed to ... well, that part is up to you.
 
